@@ -15,7 +15,3 @@ jspm_packages/
 .yarn-integrity
 .env
 cache
-src/bundle
-src/reducers
-src/store
-test

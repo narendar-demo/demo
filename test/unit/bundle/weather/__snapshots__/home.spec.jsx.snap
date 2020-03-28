@@ -1,0 +1,269 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`WeatherHome Snapshot Test renders correctly with all props given error 1`] = `
+<div
+  className="styles__Alert-ohc1nz-3 bItRNh"
+>
+  <div
+    className="styles__Row-ohc1nz-2 dagXLg"
+  >
+    <strong>
+      Test
+    </strong>
+  </div>
+</div>
+`;
+
+exports[`WeatherHome Snapshot Test renders correctly with all props given isLoading - false 1`] = `
+<div
+  className="styles__Container-ohc1nz-0 hxmuKU"
+  id="weatherContainer"
+>
+  <div
+    className="styles__Row-ohc1nz-2 styles__Card-ohc1nz-6 jqRJUU"
+    id={0}
+  >
+    <div
+      className="styles__Row-ohc1nz-2 dagXLg"
+    >
+      <div
+        className="styles__Col-ohc1nz-1 fBjrqY"
+      >
+        <div
+          className="styles__InputLabel-ohc1nz-4 iVgnfw"
+        >
+          28/2/2020
+        </div>
+      </div>
+    </div>
+    <div
+      className="styles__Row-ohc1nz-2 dagXLg"
+    >
+      <div
+        className="styles__Col-ohc1nz-1 fBjrqY"
+      >
+        <div
+          className="styles__Weather-ohc1nz-7 egkfMz"
+          id="0_max"
+          max="true"
+        >
+          7
+          <div
+            className="styles__TempType-ohc1nz-8 isQOer"
+          >
+            °C
+          </div>
+        </div>
+        <div
+          className="styles__Weather-ohc1nz-7 eKCvfN"
+          id="0_min"
+          min="true"
+        >
+          1
+          <div
+            className="styles__TempType-ohc1nz-8 isQOer"
+          >
+            °C
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="styles__Row-ohc1nz-2 dagXLg"
+    >
+      <div
+        className="styles__Col-ohc1nz-1 fBjrqY"
+      >
+        <div
+          className="styles__InputLabel-ohc1nz-4 iVgnfw"
+        >
+          Pressure
+        </div>
+      </div>
+      <div
+        className="styles__Col-ohc1nz-1 fBjrqY"
+      >
+        <div
+          className="styles__InputText-ohc1nz-5 hCchiC"
+        >
+          1038
+        </div>
+      </div>
+    </div>
+    <div
+      className="styles__Row-ohc1nz-2 dagXLg"
+    >
+      <div
+        className="styles__Col-ohc1nz-1 fBjrqY"
+      >
+        <div
+          className="styles__InputLabel-ohc1nz-4 iVgnfw"
+        >
+          Humidity
+        </div>
+      </div>
+      <div
+        className="styles__Col-ohc1nz-1 fBjrqY"
+      >
+        <div
+          className="styles__InputText-ohc1nz-5 hCchiC"
+        >
+          67
+        </div>
+      </div>
+    </div>
+    <div
+      className="styles__Row-ohc1nz-2 dagXLg"
+    >
+      <div
+        className="styles__Col-ohc1nz-1 fBjrqY"
+      >
+        <div
+          className="styles__InputLabel-ohc1nz-4 iVgnfw"
+        >
+          Desciption
+        </div>
+      </div>
+      <div
+        className="styles__Col-ohc1nz-1 fBjrqY"
+      >
+        <div
+          className="styles__InputText-ohc1nz-5 hCchiC"
+        >
+          Rain
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="styles__Row-ohc1nz-2 styles__Card-ohc1nz-6 jqRJUU"
+    id={1}
+  >
+    <div
+      className="styles__Row-ohc1nz-2 dagXLg"
+    >
+      <div
+        className="styles__Col-ohc1nz-1 fBjrqY"
+      >
+        <div
+          className="styles__InputLabel-ohc1nz-4 iVgnfw"
+        >
+          29/2/2020
+        </div>
+      </div>
+    </div>
+    <div
+      className="styles__Row-ohc1nz-2 dagXLg"
+    >
+      <div
+        className="styles__Col-ohc1nz-1 fBjrqY"
+      >
+        <div
+          className="styles__Weather-ohc1nz-7 egkfMz"
+          id="1_max"
+          max="true"
+        >
+          6
+          <div
+            className="styles__TempType-ohc1nz-8 isQOer"
+          >
+            °C
+          </div>
+        </div>
+        <div
+          className="styles__Weather-ohc1nz-7 eKCvfN"
+          id="1_min"
+          min="true"
+        >
+          0
+          <div
+            className="styles__TempType-ohc1nz-8 isQOer"
+          >
+            °C
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="styles__Row-ohc1nz-2 dagXLg"
+    >
+      <div
+        className="styles__Col-ohc1nz-1 fBjrqY"
+      >
+        <div
+          className="styles__InputLabel-ohc1nz-4 iVgnfw"
+        >
+          Pressure
+        </div>
+      </div>
+      <div
+        className="styles__Col-ohc1nz-1 fBjrqY"
+      >
+        <div
+          className="styles__InputText-ohc1nz-5 hCchiC"
+        >
+          1047
+        </div>
+      </div>
+    </div>
+    <div
+      className="styles__Row-ohc1nz-2 dagXLg"
+    >
+      <div
+        className="styles__Col-ohc1nz-1 fBjrqY"
+      >
+        <div
+          className="styles__InputLabel-ohc1nz-4 iVgnfw"
+        >
+          Humidity
+        </div>
+      </div>
+      <div
+        className="styles__Col-ohc1nz-1 fBjrqY"
+      >
+        <div
+          className="styles__InputText-ohc1nz-5 hCchiC"
+        >
+          64
+        </div>
+      </div>
+    </div>
+    <div
+      className="styles__Row-ohc1nz-2 dagXLg"
+    >
+      <div
+        className="styles__Col-ohc1nz-1 fBjrqY"
+      >
+        <div
+          className="styles__InputLabel-ohc1nz-4 iVgnfw"
+        >
+          Desciption
+        </div>
+      </div>
+      <div
+        className="styles__Col-ohc1nz-1 fBjrqY"
+      >
+        <div
+          className="styles__InputText-ohc1nz-5 hCchiC"
+        >
+          Clouds
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`WeatherHome Snapshot Test renders correctly with all props given isLoading - true 1`] = `
+<div
+  className="styles__Row-ohc1nz-2 dagXLg"
+>
+  <div
+    className="styles__Col-ohc1nz-1 fBjrqY"
+  >
+    <b>
+      Loading...
+    </b>
+  </div>
+</div>
+`;
