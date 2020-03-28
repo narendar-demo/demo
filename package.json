@@ -11,7 +11,7 @@
         "test": "jest",
         "test:e2e": "URL=http://localhost:8080/ mocha ./test/e2e/e2e.test.js"
     },
-    "author": "Niku",
+    "author": "Narendar Sharma",
     "license": "TEST",
     "devDependencies": {
         "@babel/cli": "^7.4.3",
