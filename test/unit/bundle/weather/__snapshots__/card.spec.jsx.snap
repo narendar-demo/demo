@@ -1,0 +1,119 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`WeatherCard Snapshot Test renders correctly with all props given 1`] = `
+<div
+  className="styles__Row-ohc1nz-2 styles__Card-ohc1nz-6 jqRJUU"
+>
+  <div
+    className="styles__Row-ohc1nz-2 dagXLg"
+  >
+    <div
+      className="styles__Col-ohc1nz-1 fBjrqY"
+    >
+      <div
+        className="styles__InputLabel-ohc1nz-4 iVgnfw"
+      >
+        28/2/2020
+      </div>
+    </div>
+  </div>
+  <div
+    className="styles__Row-ohc1nz-2 dagXLg"
+  >
+    <div
+      className="styles__Col-ohc1nz-1 fBjrqY"
+    >
+      <div
+        className="styles__Weather-ohc1nz-7 egkfMz"
+        id="undefined_max"
+        max="true"
+      >
+        7
+        <div
+          className="styles__TempType-ohc1nz-8 isQOer"
+        >
+          °C
+        </div>
+      </div>
+      <div
+        className="styles__Weather-ohc1nz-7 eKCvfN"
+        id="undefined_min"
+        min="true"
+      >
+        1
+        <div
+          className="styles__TempType-ohc1nz-8 isQOer"
+        >
+          °C
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="styles__Row-ohc1nz-2 dagXLg"
+  >
+    <div
+      className="styles__Col-ohc1nz-1 fBjrqY"
+    >
+      <div
+        className="styles__InputLabel-ohc1nz-4 iVgnfw"
+      >
+        Pressure
+      </div>
+    </div>
+    <div
+      className="styles__Col-ohc1nz-1 fBjrqY"
+    >
+      <div
+        className="styles__InputText-ohc1nz-5 hCchiC"
+      >
+        1038
+      </div>
+    </div>
+  </div>
+  <div
+    className="styles__Row-ohc1nz-2 dagXLg"
+  >
+    <div
+      className="styles__Col-ohc1nz-1 fBjrqY"
+    >
+      <div
+        className="styles__InputLabel-ohc1nz-4 iVgnfw"
+      >
+        Humidity
+      </div>
+    </div>
+    <div
+      className="styles__Col-ohc1nz-1 fBjrqY"
+    >
+      <div
+        className="styles__InputText-ohc1nz-5 hCchiC"
+      >
+        67
+      </div>
+    </div>
+  </div>
+  <div
+    className="styles__Row-ohc1nz-2 dagXLg"
+  >
+    <div
+      className="styles__Col-ohc1nz-1 fBjrqY"
+    >
+      <div
+        className="styles__InputLabel-ohc1nz-4 iVgnfw"
+      >
+        Desciption
+      </div>
+    </div>
+    <div
+      className="styles__Col-ohc1nz-1 fBjrqY"
+    >
+      <div
+        className="styles__InputText-ohc1nz-5 hCchiC"
+      >
+        Rain
+      </div>
+    </div>
+  </div>
+</div>
+`;
